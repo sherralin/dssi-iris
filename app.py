@@ -1,5 +1,4 @@
 import streamlit as st
-from src.inference import get_prediction
 
 #Title&Description
 st.title('Classifying Iris Flowers')
